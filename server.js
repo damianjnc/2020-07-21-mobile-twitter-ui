@@ -36,8 +36,7 @@ let server = createServer({
       fromSam: trait({
         name: "Sam Selikoff",
         username: "samselikoff",
-        avatarUrl:
-          "https://pbs.twimg.com/profile_images/1282391598878392320/sFA_RlbT_400x400.jpg",
+        avatarUrl: "http://twivatar.glitch.me/samselikoff",
       }),
     }),
   },
